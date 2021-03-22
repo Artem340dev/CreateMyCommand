@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CreateMyCommand">
+    <output-path>$PROJECT_DIR$/out/artifacts/CreateMyCommand</output-path>
+    <root id="archive" name="CreateMyCommand.jar">
+      <element id="module-output" name="CreateMyCommand" />
+      <element id="dir-copy" path="$PROJECT_DIR$/resources" />
+    </root>
+  </artifact>
+</component>

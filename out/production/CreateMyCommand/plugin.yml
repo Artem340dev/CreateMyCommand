@@ -1,0 +1,3 @@
+name: CreateMyCommand
+main: ru.pipl.main.SpigotPlugin
+version: 0.1
